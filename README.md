@@ -26,8 +26,7 @@ The data used in this project was **entirely self-generated** with the help of c
 
 ## Dashboard Preview
 
-![Dashboard Preview](placeholder_for_image.png)  
-*(Replace "placeholder_for_image.png" with the image file path once uploaded.)*
+![Dashboard Preview](Dashboard%20Preview/Dream%20Supershop%20Dashboard.PNG)
 
 ## How to Use
 
