@@ -9,7 +9,8 @@ This project is part of my **learning journey** as I transition into Data Analyt
   - Sales performance and customer segmentation (e.g., premium vs. non-premium).  
   - Trends across months, age groups, and product categories.  
   - Top-selling products and customer occupation analysis.  
-- **Interactive Visuals:** Fully responsive visuals powered by Pivot Tables and Excel charts.  
+- **Interactive Visuals:** Fully responsive visuals powered by Pivot Tables and Excel charts.
+- **KPI Visibility:** Key Performance Indicators (KPIs) like Total Sales, Total Revenue, and Average Order Value are prominently displayed for quick reference.
 
 ## Source Data
 
